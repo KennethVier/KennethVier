@@ -57,7 +57,7 @@ Hippocampus is my most architecture-intensive project. Its v1 design uses a **mo
 
 ---
 
-### 💸 PesoPilot
+### 💸 [PesoPilot](https://peso-pilot-three.vercel.app/)
 
 **Local-first personal finance tracker with AI-assisted financial insights.**
 
@@ -74,7 +74,9 @@ PesoPilot is designed around a privacy-first principle: the primary financial da
 - **Java 21 + Spring Boot 3** service layer for backend/AI capabilities
 - Local-first boundaries keep core finance workflows usable without depending on remote infrastructure
 
-> Status: actively developed; the public profile intentionally does not link to an unfinished repository.
+[**Open live PesoPilot demo →**](https://peso-pilot-three.vercel.app/)
+
+> Status: actively developed and publicly deployed on Vercel.
 
 ---
 
@@ -206,6 +208,6 @@ I'm particularly interested in **AI-assisted engineering workflows**, **agentic 
 
 ### Build useful systems. Keep the boundaries clear. Validate what matters.
 
-[**Portfolio**](https://vier-main-portfolio.vercel.app) · [**Hippocampus**](https://github.com/KennethVier/hippocampus) · [**Portfolio Labs**](https://github.com/KennethVier/vier-portfolio-labs) · [**Repositories**](https://github.com/KennethVier?tab=repositories)
+[**Portfolio**](https://vier-main-portfolio.vercel.app) · [**Hippocampus**](https://github.com/KennethVier/hippocampus) · [**PesoPilot**](https://peso-pilot-three.vercel.app/) · [**Portfolio Labs**](https://github.com/KennethVier/vier-portfolio-labs) · [**Repositories**](https://github.com/KennethVier?tab=repositories)
 
 </div>

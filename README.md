@@ -141,9 +141,11 @@ Yomira is split into dedicated document-processing and quiz-generation services,
 
 `React Router` · `React Hook Form` · `Zod` · `Zustand` · `Axios` · `Responsive UI` · `Component architecture` · `Server/client state separation`
 
-### AI, RAG & Document Processing
+### AI, RAG & Agentic Engineering
 
 <p>
+  <img src="https://img.shields.io/badge/Cursor-AI_Coding-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-Agentic_Coding-000000?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
@@ -151,7 +153,7 @@ Yomira is split into dedicated document-processing and quiz-generation services,
   <img src="https://img.shields.io/badge/PDFBox-D22128?style=flat-square&logo=apache&logoColor=white" />
 </p>
 
-`LLM provider abstraction` · `Embeddings` · `Grounded retrieval` · `Vector + lexical search` · `Prompt boundaries` · `PDF ingestion` · `Structured AI output` · `AI evaluation`
+`Cursor` · `OpenAI Codex` · `AI-assisted development` · `Agentic coding workflows` · `Validation loops` · `LLM provider abstraction` · `Embeddings` · `Grounded retrieval` · `Vector + lexical search` · `Prompt engineering` · `PDF ingestion` · `Structured AI output` · `AI evaluation`
 
 ### Testing, Quality & Delivery
 
@@ -190,7 +192,7 @@ var currentFocus = new EngineeringDirection(
 );
 ```
 
-I'm particularly interested in **AI-assisted engineering workflows**, **agentic systems with validation loops**, and integrating AI into Spring applications without giving up deterministic application boundaries.
+I'm particularly interested in **AI-assisted engineering workflows with Cursor and Codex**, **agentic systems with validation loops**, and integrating AI into Spring applications without giving up deterministic application boundaries.
 
 ---
 

@@ -1,0 +1,49 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1020"/>
+      <stop offset="0.52" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1020"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="100" y1="80" x2="940" y2="290" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67E8F9"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C084FC"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+  <circle cx="1030" cy="66" r="125" fill="#4F46E5" opacity="0.16" filter="url(#glow)"/>
+  <circle cx="1095" cy="285" r="110" fill="#06B6D4" opacity="0.12" filter="url(#glow)"/>
+
+  <g opacity="0.36" stroke="url(#accent)" stroke-width="2">
+    <path d="M835 86L946 132L1030 76L1110 142L1030 218L919 190L835 256"/>
+    <path d="M946 132L919 190L1030 218L1110 142"/>
+    <circle cx="835" cy="86" r="7" fill="#67E8F9" stroke="none"/>
+    <circle cx="946" cy="132" r="7" fill="#818CF8" stroke="none"/>
+    <circle cx="1030" cy="76" r="7" fill="#C084FC" stroke="none"/>
+    <circle cx="1110" cy="142" r="7" fill="#67E8F9" stroke="none"/>
+    <circle cx="1030" cy="218" r="7" fill="#818CF8" stroke="none"/>
+    <circle cx="919" cy="190" r="7" fill="#C084FC" stroke="none"/>
+    <circle cx="835" cy="256" r="7" fill="#67E8F9" stroke="none"/>
+  </g>
+
+  <rect x="76" y="66" width="84" height="8" rx="4" fill="url(#accent)"/>
+  <text x="76" y="140" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Kenneth Vier</text>
+  <text x="76" y="190" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="25" font-weight="500">Software Engineer · Java / Spring Boot · AI-Enabled Systems</text>
+  <text x="76" y="238" fill="#94A3B8" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Building reliable systems with clear boundaries, strong validation, and practical AI.</text>
+
+  <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="600">
+    <rect x="76" y="276" width="118" height="38" rx="19" fill="#172033" stroke="#334155"/>
+    <text x="100" y="300" fill="#67E8F9">BACKEND</text>
+    <rect x="208" y="276" width="112" height="38" rx="19" fill="#172033" stroke="#334155"/>
+    <text x="235" y="300" fill="#A5B4FC">AI / RAG</text>
+    <rect x="334" y="276" width="126" height="38" rx="19" fill="#172033" stroke="#334155"/>
+    <text x="356" y="300" fill="#D8B4FE">FULL-STACK</text>
+    <rect x="474" y="276" width="116" height="38" rx="19" fill="#172033" stroke="#334155"/>
+    <text x="497" y="300" fill="#67E8F9">TESTING</text>
+  </g>
+</svg>
